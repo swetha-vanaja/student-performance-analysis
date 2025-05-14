@@ -89,4 +89,4 @@ Student_Performance_Analysis/
 
 ## 📬 Contact
 
-For queries or collaboration: [your-email@example.com]
+For queries or collaboration: kurraswethavanaja@gmail.com
